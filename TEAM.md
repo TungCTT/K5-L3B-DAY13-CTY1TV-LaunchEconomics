@@ -5,7 +5,7 @@
 - Tên nhóm: CTY1TV
 - Lớp: L3B
 - Repo nhóm: `K5-L3B-DAY13-CTY1TV-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: https://github.com/TungCTT/K5-L3B-DAY13-CTY1TV-LaunchEconomics, nhánh `main`, commit chốt (cập nhật khi nộp)
+- URL repo, nhánh nộp, commit chốt: https://github.com/TungCTT/K5-L3B-DAY13-CTY1TV-LaunchEconomics, nhánh `main`, commit chốt: 694589f7bc32e32771b6b30523871d10c744a8d2
 
 ## Thành viên
 
